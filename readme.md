@@ -1,0 +1,2 @@
+In this project i will make a google search page which will be built by using HTML & CSS and hence will be a static webpage but accessable and responsive as it is a basic project and also some of my earlier projects
+Happy Coding!
